@@ -1,0 +1,67 @@
+@media(max-width:768px){
+
+.hero h1{
+
+    font-size:2.8rem;
+
+}
+
+.hero p{
+
+    font-size:1rem;
+
+}
+
+.hero-btn{
+
+    padding:12px 30px;
+
+}
+
+}
+@media(max-width:768px){
+
+    .about{
+
+        text-align:center;
+
+    }
+
+    .title-line{
+
+        margin:20px auto 30px;
+
+    }
+
+    .about h2{
+
+        font-size:2.2rem;
+
+    }
+
+}
+
+@media(max-width:768px){
+
+    .carousel-item img{
+
+        height:250px;
+
+    }
+
+}
+@media(max-width:768px){
+
+    .reservation h2{
+
+        font-size:2.2rem;
+
+    }
+
+    .info-card{
+
+        text-align:center;
+
+    }
+
+}
